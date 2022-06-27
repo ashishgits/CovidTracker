@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+    background-color: rgb(26, 29, 29);
+    color: white;
+}
+
+
+ul li{
+    list-style: none;
+}
+
+.card{
+    border: 2px solid black;
+    padding:10px 20px 10px 20px;
+}
+
+
+ul{
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.card__total{
+    font-size: 35px;
+}
+
+.blue{
+    background-color: rgb(24, 108, 244);
+}
+
+.green{
+    background-color: rgb(21, 180, 21);
+}
+
+.yellow{
+     background-color: rgb(194, 194, 12);
+}
+
+.orange{
+    background-color: orangered;
+}
+
+.brown{
+    background-color: rgb(166, 127, 54);
+}
