@@ -32,7 +32,7 @@ const Covid = () => {
                 <p className="card__name blue">
                   <span className="blue"> OUR </span>COUNTRY
                 </p>
-                <p className="card__total card__small blue">INDIA</p>
+                <p className="card__total card__large blue">INDIA</p>
               </div>
             </div>
           </li>
@@ -42,7 +42,7 @@ const Covid = () => {
                 <p className="card__name yellow">
                   <span className="yellow"> TOTAL </span>CONFIRMED
                 </p>
-                <p className="card__total card__small yellow">
+                <p className="card__total card__large yellow">
                   {data.confirmed}
                 </p>
               </div>
@@ -52,9 +52,9 @@ const Covid = () => {
             <div className="card__main">
               <div className="card__inner orange">
                 <p className="card__name orange">
-                  <span className="orange"> TOTAL </span>DEATH
+                  <span className="orange"> TOTAL </span>DEATHS
                 </p>
-                <p className="card__total card__small orange">{data.deaths}</p>
+                <p className="card__total card__large orange">{data.deaths}</p>
               </div>
             </div>
           </li>
@@ -64,7 +64,7 @@ const Covid = () => {
                 <p className="card__name green">
                   <span className="green"> LIFE </span>EXPECTANCY
                 </p>
-                <p className="card__total card__small green">
+                <p className="card__total card__large green">
                   {data.life_expectancy}
                 </p>
               </div>
@@ -76,7 +76,7 @@ const Covid = () => {
                 <p className="card__name brown">
                   <span className="brown"> LAST </span>UPDATED
                 </p>
-                <p className="card__total card__small brown">{data2.updated}</p>
+                <p className="card__total brown">{data2.updated}</p>
               </div>
             </div>
           </li>
