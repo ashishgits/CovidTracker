@@ -1,3 +1,6 @@
+# LIVE DEMO OF PROJECT
+[Click Here](https://covidtracker-ashishgits.netlify.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
