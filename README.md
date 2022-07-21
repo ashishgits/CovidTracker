@@ -1,5 +1,5 @@
 # LIVE DEMO OF PROJECT
-[Click Here](https://covidtracker-ashishgits.netlify.app)
+[Click Here](https://ashishgits.github.io/CovidTracker/)
 
 # Getting Started with Create React App
 
